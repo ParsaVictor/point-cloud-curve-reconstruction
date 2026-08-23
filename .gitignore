@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+dist/
+build/
+.eggs/
+.venv/
+venv/
+*.log
+.DS_Store
+Thumbs.db
+.ipynb_checkpoints/
+*.3dm
+*.pdf
+Rhinoceros*/
+results_parsa/
+*.csv.bak
